@@ -1,0 +1,6 @@
+{
+  "name": "فصل وتعديل الصوت",
+  "description": "تطبيق احترافي لفصل الصوت عن الفيديو وتقطيعه وتحريره وحفظه بصيغ صوتية متعددة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
